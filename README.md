@@ -1,7 +1,7 @@
 This repository contains scripts that Figma used to migrate its TypeScript codebase to use `--strictNullChecks`.
 
 These scripts were originally forked from https://github.com/mjbvz/vscode-strict-null-check-migration-tools
-
+* https://github.com/JaroslawPokropinski/eslint-plugin-strict-null-checks
 # How to use
 
 These are scripts used in the incremental migration approach described in [https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/].
